@@ -1,18 +1,7 @@
-import requests
 import os
-import sys
-import threading
-import time
-import json
-import asyncio
 import discord
-import aiohttp
-import pprint
 
 from colorama import Fore
-from pypresence import Presence
-from discord import Webhook, AsyncWebhookAdapter
-from discord.ext import commands
 
 os.system(f'cls & mode 85,20 & title PHAZIFY MASS DM')
 
@@ -27,7 +16,7 @@ print(f'''{Fore.RESET}
 
 client = discord.Client()
 
-token = input("Type in your token retard")
+token = input("Token?")
 sex = input("Msg?")
 
 @client.event
