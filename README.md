@@ -1,4 +1,4 @@
-made my 4orzi / phazify, recon.
+made by 4orzi / phazify, recon.
 
 any questions about it?
 
