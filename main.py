@@ -16,7 +16,7 @@ print(f'''{Fore.RESET}
 
 client = discord.Client()
 
-token = input("Token?")
+token = input("drop your token")
 sex = input("Msg?")
 
 @client.event
